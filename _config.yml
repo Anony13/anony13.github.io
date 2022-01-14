@@ -77,15 +77,15 @@ footer-text: Copyright (c) 2019 Anony13
 #
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
-disqus: #shortname
+# disqus: #shortname
 
-# 输入Gitalk相关设定，即可添加评论区，具体请看教程
-gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
-  proxy:
+# # 输入Gitalk相关设定，即可添加评论区，具体请看教程
+# gitalk:
+#   clientID: 
+#   clientSecret: 
+#   repo: 
+#   owner: 
+#   proxy:
 
 # 输入Google Analytics web tracking code
 google_analytics:
