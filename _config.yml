@@ -23,12 +23,14 @@ baseurl:
 # 下面的设定都是可选的
 #
 
+# 注意，如果图片名字带有中文，需要URL编码才行，可以在github上通过网页打开图片后，直接复制地址，
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
 # avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
-avatar: https://raw.githubusercontent.com/Anony13/anony13.github.io/master/images/老韭陈logo300.png
+avatar: https://raw.githubusercontent.com/Anony13/anony13.github.io/master/images/%E8%80%81%E9%9F%AD%E9%99%88logo300.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/Anony13/anony13.github.io/master/images/老韭陈logo64.png
+favicon: https://raw.githubusercontent.com/Anony13/anony13.github.io/master/images/%E8%80%81%E9%9F%AD%E9%99%88logo64.png
+
 
 
 # 菜单中的按钮
