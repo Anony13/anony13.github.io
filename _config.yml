@@ -24,11 +24,11 @@ baseurl:
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://sm.ms/image/AkuN3ynlZjO8gRB
 # avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: https://raw.githubusercontent.com/Anony13/anony13.github.io/master/images/老韭陈logo300.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+favicon: https://raw.githubusercontent.com/Anony13/anony13.github.io/master/images/老韭陈logo64.png
 
 
 # 菜单中的按钮
