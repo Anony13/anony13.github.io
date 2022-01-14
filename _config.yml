@@ -10,7 +10,7 @@
 name: anony13的博客
 description: 
   一个假程序员的博客，FAKE CODER。
-  </br><a href="https://www.baidu.com" target="_blank">测试网页跳转</a>
+  # </br><a href="https://www.baidu.com" target="_blank">测试网页跳转</a>
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
